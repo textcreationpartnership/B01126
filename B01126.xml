@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The praise of brotherhood: or, A description of hoodes writ in verse, not in prose shewing which best becomes the nose. To the tune of Abington Fayre.</title>
+            <author>I. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01126</idno>
+            <idno type="STC">STC 6171</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[338]</idno>
+            <idno type="EEBO-CITATION">99884396</idno>
+            <idno type="PROQUEST">ocm99884396</idno>
+            <idno type="VID">183095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183095)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[179])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The praise of brotherhood: or, A description of hoodes writ in verse, not in prose shewing which best becomes the nose. To the tune of Abington Fayre.</title>
+                  <author>I. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for R. Harper,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1634?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.D.</note>
+                  <note>Verse: "To fashions strange the world is bent ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Probably by the same author as STC 6169. Cf. STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="338" facs="tcp:183095:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>The praiſe of Brotherhood: <hi>OR.</hi> 
+               <l>A deſcription of Hoodes writ in Verſe, not in Proſe</l>
+               <l>Shewing which beſt becomes the Noſe.</l>
+            </head>
+            <opener>To the tune of <hi>Abington Fayre.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TO Faſhions ſtrange the world is bent,</l>
+                  <l>one faſhion giues not al content,</l>
+                  <l>For ſome with maskes there faces hide,</l>
+                  <l>and ſome theire breſts lay open wide.</l>
+                  <l>Some goe with curled locks of haire</l>
+                  <l>and ſome fine hoods like haukes doe were,</l>
+                  <l>Then choyce of hoodes I will diſcloſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And ſhew which beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that through ſtormes and tempeſts doth ride</l>
+                  <l>hath néede of a hood his head for to hide,</l>
+                  <l>To kéep off each blaſt of the Northerne winde</l>
+                  <l>for to much cold comfort I know is vnkind,</l>
+                  <l>When tempeſts riſe and windes doe blow,</l>
+                  <l>and ſturdy ſtormes their fury ſhew,</l>
+                  <l>A Cloſe hood is good, when cold the wind blowes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that will haue the world to his minde</l>
+                  <l>muſt ſearch well his wits new faſhions to finde.</l>
+                  <l>And ſtudy new fangles to pleaſure fond fooles,</l>
+                  <l>for wantons are willing to follow bad rules.</l>
+                  <l>Deceipt is vnſéemely it blindes the eyes,</l>
+                  <l>plain-dealing is pleaſing which fooles doe deſpiſe,</l>
+                  <l>Kéepe peace in thy boſome, ſhew loue to thy foes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For brother-hood moſt I muſt commend,</l>
+                  <l>the vertue thereof ſo farre doth extend,</l>
+                  <l>True loue and peace and charity,</l>
+                  <l>in brother-hood doe hidden lye,</l>
+                  <l>He that true brotherhood hath poſſeſt,</l>
+                  <l>ſhall liu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> well beloued and die double bleſt,</l>
+                  <l>Greate hopes there in I doe repoſe</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>An dayes of old when I was but a boy,</l>
+                  <l>then Brother-hood went for a faſhion each day,</l>
+                  <l>But brother-hood now is out of requeſt</l>
+                  <l>and other hoodes are accounted beſt,</l>
+                  <l>For now ſtrange tricks and trifles they vſe,</l>
+                  <l>which makes the poore man to ſtand in a muſe,</l>
+                  <l>I doe ſay no more then all the world knowes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Prieſt-hood is an order diuine,</l>
+                  <l>let them that attaine it in glory ſo ſhine,</l>
+                  <l>That poore men vnlearned may find out the way</l>
+                  <l>which leades vnto Reſt, that ſhall neuer decay,</l>
+                  <l>This prieſt-hood was vnto the learned ordaynd,</l>
+                  <l>O bleſt is the man that true wiſedome hath gayn'd</l>
+                  <l>To ſuccour the néedy and pray for his foes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Knight-hood procéedes from honour and fame</l>
+                  <l>when men try there Valour to win them a name</l>
+                  <l>With vndaunted force to fight in the field,</l>
+                  <l>to purchaſe renowne with ſword and with ſhield:</l>
+                  <l>He that fights in field with might and with mayne,</l>
+                  <l>deſerues well the honour of Knight-hood to gaine,</l>
+                  <l>Thus poore men by Valour to honour haue roſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="339" facs="tcp:183095:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->
+               <head>The Second Part</head>
+               <opener>to <gap reason="illegible: damage" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>
+               </opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>MAn-hood Ile prayſe the beſt that I can,</l>
+                  <l>for he that wants manhood is counted no man</l>
+                  <l>And he that wants manners is counted an aſſe,</l>
+                  <l>A dunce, or a foole, but for that let it paſſe.</l>
+                  <l>Manhood is more then ſome men haue poſſeſt,</l>
+                  <l>yet he that hath man-hood is a man at the leaſt,</l>
+                  <l>And a man is a man, where ſo euer he goes</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Woman-hood next I in order apply,</l>
+                  <l>in good ſooth goſſipe, Ile tell you no lye,</l>
+                  <l>A beautifull woman from woman-hood frée,</l>
+                  <l>is like a faire Image made of an old tree.</l>
+                  <l>A modeſt woman is accounted wiſe</l>
+                  <l>and a ſhameleſſe woman is a griefe to the eyes,</l>
+                  <l>A woman that's ſhameles her ſhame wil diſcloſe</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Neighbour-hood next doth follow in rancke</l>
+                  <l>but men are not now ſo frée and ſo franke,</l>
+                  <l>So franke, and ſo frée, So louing and kinde,</l>
+                  <l>for neighbour-hood now is quite worne out of minde</l>
+                  <l>Each man for himſelfe now, and God for vs all:</l>
+                  <l>for neighbour-hood now among men is but ſmall,</l>
+                  <l>Yea thoſe that are friends liue as if they were foes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Though brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The <hi>French-hood</hi> is a faſhion of old,</l>
+                  <l>in <hi>Fraunce</hi> well reſpected as I haue bin told</l>
+                  <l>For it ſo well becomes the Crowne,</l>
+                  <l>that it is held in high renowne,</l>
+                  <l>Old women doe thinke it is wonderfull rare,</l>
+                  <l>as if that none with them might compare,</l>
+                  <l>But for all that I doe depoſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>that brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Yet cauſe the <hi>French-hood</hi> doeth make a fine ſhow,</l>
+                  <l>therefore Ile ſpeake of it as much as I know,</l>
+                  <l>For ſure the <hi>French-hood</hi> much honour doth gayne,</l>
+                  <l>it holds all the witt that comes in the braine<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Giue loue the <hi>French-hood</hi> and ſhe will ap<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eare</l>
+                  <l>to looke like a Lady all times of the yeare.</l>
+                  <l>For hoods are deceitfull which makes me ſuppoſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>That brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Child-hood, is a wonderfull ſimple thinge,</l>
+                  <l>Yet time and old age more wiſedome will br<gap reason="illegible: damage" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>Yet ſome men in age are ſo Childiſh grone</l>
+                  <l>as if that true man-hood they had neuer kno<gap reason="illegible: bleedthrough" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </l>
+                  <l>Let child-hood alone for children to vſe,</l>
+                  <l>and when they are old they will it refuſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>As a child growes in age ſo in wiſedome he growes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But yet theres one hood which I haue not expreſt</l>
+                  <l>and that is cal'd falſ-hood more worſe then the reſt,</l>
+                  <l>For falſe-hood breeds folly in a<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> mans heart:</l>
+                  <l>that doth ſo vnwiſely from vertue depart</l>
+                  <l>He that two faces beares vnder a hood,</l>
+                  <l>his déeds are deceitfull they cann't be withſtood,</l>
+                  <l>It will make true friends to be mortall foes,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I would that the world to loue were inclind</l>
+                  <l>that each man might have a brotherly mind,</l>
+                  <l>For brother-hood then would come in requeſt</l>
+                  <l>and poore men find comfort which are much oppre<gap reason="illegible: damage" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </l>
+                  <l>He that hath purchaſt much wealth and much gold</l>
+                  <l>and ſets his poore brother to ſtarue in the cold.</l>
+                  <l>I reſpect ſuch a friend but as one of my foes<g ref="char:punc">▪</g>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For brother-hood beſt becomes the noſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>I. D</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for R. Harper.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
